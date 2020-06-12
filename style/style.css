@@ -63,7 +63,7 @@ body {
 .roll {
   width: 30px;
   height: 30px;
-  background-color: #fff;
+  background-color: white;
   margin-left: 10px;
   border-radius: 5px;
   color: black;
@@ -72,7 +72,7 @@ body {
 }
 .btn,
 input {
-  background-color: #fff;
+  background-color: white;
   border: none;
   padding: 5px;
 }
